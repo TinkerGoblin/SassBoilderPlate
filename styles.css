@@ -6,7 +6,7 @@ body {
 
 .titleBackground {
   max-width: 450px;
-  background-color:#95bcd6;
+  background-color: #95bcd6;
   display: flex;
   justify-content: center;
   position: relative;
@@ -17,7 +17,7 @@ body {
   text-align: center;
 }
 .aboutMe {
-  
+  color: red;
 }
 .interest {
   text-align: center;
