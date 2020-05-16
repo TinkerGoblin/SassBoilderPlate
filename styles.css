@@ -1,0 +1,37 @@
+body {
+  background-color: #fafafaf5;
+  color: #853d3d;
+  font-family: sans-serif, monospace;
+}
+
+.titleBackground {
+  max-width: 450px;
+  background-color:#95bcd6;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: 20px;
+}
+
+.landingTitle {
+  text-align: center;
+}
+.aboutMe {
+  
+}
+.interest {
+  text-align: center;
+}
+.contentCard {
+  width: auto;
+  background-color: #f5f1eef3;
+  color: #ddad77ef;
+  border: 0px solid #ccc;
+  border-radius: 2px;
+  margin: 5px 5px auto;
+  padding: 4px;
+}
+
+footer {
+  color: #486944c5;
+}
