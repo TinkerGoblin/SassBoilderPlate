@@ -9,7 +9,6 @@ body {
   background-color: #95bcd6;
   display: flex;
   justify-content: center;
-  position: relative;
   margin: 20px;
 }
 
@@ -17,19 +16,19 @@ body {
   text-align: center;
 }
 .aboutMe {
-  color: red;
+  color: rgb(212, 87, 87);
 }
 .interest {
   text-align: center;
 }
 .contentCard {
-  width: auto;
+  max-width: 650px;
   background-color: #f5f1eef3;
   color: #ddad77ef;
   border: 0px solid #ccc;
   border-radius: 2px;
   margin: 5px 5px auto;
-  padding: 4px;
+  padding: 10px;
 }
 
 footer {
